@@ -1,0 +1,16 @@
+case,capex_Tk_M,post_tax_IRR_pct,NPV_Tk_M,payback_yr
+"Base (Scn. A, Tk 24/kWh)",59.62,12.55,9.01,7
+Capex -20%,47.69,16.59,19.21,6
+Capex +20%,71.54,9.71,-1.2,8
+Price Tk 22/kWh,59.62,10.37,1.25,8
+Price Tk 26/kWh,59.62,14.6,16.76,6
+Pre-budget duties (Scn. B),67.36,10.61,2.38,8
+Income-tax exemption,59.62,15.78,21.97,6
+Irradiation -10%,59.62,11.18,4.05,7
+Irradiation +10%,59.62,13.48,12.53,7
+Grid tariff +10%,59.62,12.45,8.61,7
+Throughput -20%,59.62,8.3,-5.63,8
+Throughput +20%,59.62,14.71,17.14,6
+"Monthly netting, no carry-forward",59.62,12.32,8.18,7
+PV + grid only (no BESS),45.69,18.09,23.49,5
+No net-metering credit,59.62,3.62,-18.79,11
