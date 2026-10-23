@@ -2,7 +2,7 @@
 
 Hourly techno-economic model of a grid-connected **500 kWp PV + 500 kWh LFP battery** charging station for battery-run
 three-wheelers ("easy bikes") in Cox's Bazar, Bangladesh, driven by **real NASA POWER weather for 2025**.
-Companion code and data for the IEEE conference paper in `paper/`.
+
 
 ## What it does
 - Reads NASA POWER hourly GHI / DNI / diffuse / temperature, transposes to a 15 deg south-facing plane, and computes cell temperature and AC output.
